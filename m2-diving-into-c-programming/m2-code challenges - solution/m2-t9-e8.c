@@ -17,7 +17,7 @@ int main() {
         exit(0);
     } else {
         puts("Enter data: ");
-
+Y
         /* User input. */
         for (int i = 0; i < n; i++) {
             scanf("%f", p + i);    // Elements are being stored at their address.
